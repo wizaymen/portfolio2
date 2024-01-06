@@ -1,0 +1,38 @@
+/* FourSections.css */
+
+.four-sections {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 53%;
+    height: 70%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+    
+  }
+  
+  .section {
+    width: 300px;
+    margin: 10px 0;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.1rem;
+    color: #666;
+    line-height: 1.5;
+  }
+  a{
+    font-size: 22px;
+
+  }
